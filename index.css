@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+img {
+    box-shadow: 10px 10px 5px #00000070;
+    background-color: antiquewhite;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 3px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 30px;
+    font-size: 40px;
+    color: #d5ba31;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
